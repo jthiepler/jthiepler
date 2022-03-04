@@ -1,16 +1,17 @@
-### Hey, I'm Josh!
+## Hey, I'm Josh!
 
-<!--
-**jthiepler/jthiepler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏦 Corporate Research Intern at Atos
+- 🎓 Data Science student at ESSEC & CentraleSupélec in Paris
 
-Here are some ideas to get you started:
+## Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jthiepler/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&logo=github&logoColor=white&style=flat)](https://github.com/jthiepler)
+
+## Technologies I like
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![Sci-Kit Learn](https://img.shields.io/badge/Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![Pytorch](https://img.shields.io/badge/Pyorch-orange?logo=pytorch&logoColor=white&style=flat)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindronics&hide=jupyter%20notebook,tex&layout=compact&langs_count=10)
