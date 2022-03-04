@@ -3,12 +3,12 @@
 - 🏦 Corporate Research Intern at Atos
 - 🎓 Data Science student at ESSEC & CentraleSupélec in Paris
 
-## Connect with me
+## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jthiepler/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&logo=github&logoColor=white&style=flat)](https://github.com/jthiepler)
 
-## Technologies I like
+## What I like to work with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/R-71A5D4?logo=rstudio&logoColor=white&style=flat)
