@@ -14,4 +14,4 @@
 ![Sci-Kit Learn](https://img.shields.io/badge/Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![Pytorch](https://img.shields.io/badge/Pyorch-orange?logo=pytorch&logoColor=white&style=flat)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindronics&hide=jupyter%20notebook,tex&layout=compact&langs_count=10)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jthiepler&hide=jupyter%20notebook,tex&layout=compact&langs_count=10)
